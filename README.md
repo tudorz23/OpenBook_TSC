@@ -139,8 +139,9 @@ Resistor 200 | 0.33 | 1 | https://eu.mouser.com/ProductDetail/TE-Connectivity-Ho
 * I drew the shape of the PCB, then I placed the components, all of them on the
 top plane, taking into account the position they will occupy in the external case.
 * I drew the ground plane for both top and bottom, then I used the autorouter to
-shape the routes. I manually routed those that were left as airwires.
+shape the routes. I manually routed those that were left as airwires and corrected
+the ones that were not so greatly done.
 * I set the power routes to a width of 0.3mm and solved all the issues from the
-DRC check, like the angles of the routes.
+DRC check, such as the angles of the routes.
 * After fine-tuning the silkscreen, I pushed the PCB to 3D and placed it into
-the case.
+the case, alongside the battery and the display.
