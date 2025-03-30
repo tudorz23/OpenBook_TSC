@@ -135,7 +135,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-2.5" y="2.5" size="1.27" layer="25">&gt;NAME</text>
 <text x="-2.5" y="-3.5" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="ESP32_WROVER_EAGLE-LTSPICE_R0402" library_version="20">
+<package name="ESP32_WROVER_EAGLE-LTSPICE_R0402" library_version="3">
 <description>&lt;b&gt;RESISTOR&lt;/b&gt;</description>
 <wire x1="-0.245" y1="0.224" x2="0.245" y2="0.224" width="0.1524" layer="51"/>
 <wire x1="0.245" y1="-0.224" x2="-0.245" y2="-0.224" width="0.1524" layer="51"/>
@@ -182,7 +182,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <smd name="5" x="1.25" y="0" dx="1.2" dy="0.6" layer="1"/>
 <smd name="6" x="1.25" y="0.95" dx="1.2" dy="0.6" layer="1"/>
 </package>
-<package name="EAGLE-LTSPICE_C0402" library_version="1">
+<package name="EAGLE-LTSPICE_C0402" library_version="4">
 <description>&lt;b&gt;CAPACITOR&lt;/b&gt;</description>
 <wire x1="-0.245" y1="0.224" x2="0.245" y2="0.224" width="0.1524" layer="51"/>
 <wire x1="0.245" y1="-0.224" x2="-0.245" y2="-0.224" width="0.1524" layer="51"/>
@@ -243,7 +243,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="-0.6" y1="-1.45" x2="-0.6" y2="1.45" width="0.2" layer="21"/>
 <wire x1="-1.85" y1="1.5" x2="-0.95" y2="1.5" width="0.2" layer="21"/>
 </package>
-<package name="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0" library_version="62">
+<package name="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0" library_version="7">
 <description>Schottky Barrier Rectifier Diode</description>
 <wire x1="-1" y1="-0.65" x2="-1" y2="0.65" width="0.15" layer="51"/>
 <wire x1="-1" y1="0.65" x2="1" y2="0.65" width="0.15" layer="51"/>
@@ -260,7 +260,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <smd name="2" x="1.05" y="0" dx="0.8" dy="0.9" layer="1"/>
 <text x="1.775" y="-0.225" size="1" layer="25">&gt;NAME</text>
 </package>
-<package name="ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" library_version="28">
+<package name="ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" library_version="8">
 <description>&lt;h3&gt;SOT23-3X&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -340,7 +340,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="7.095" y="3.1" size="1.27" layer="25" align="center">&gt;NAME</text>
 <text x="7.095" y="3.1" size="1.27" layer="27" align="center">&gt;VALUE</text>
 </package>
-<package name="SOD3716X135N" library_version="54">
+<package name="SOD3716X135N" library_version="6">
 <description>&lt;b&gt;SOD-123 CASE425-04 ISSUE G&lt;/b&gt;&lt;br&gt;
 </description>
 <text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
@@ -567,7 +567,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-3.2712" y="-0.635" size="1.27" layer="27" ratio="6">&gt;Name</text>
 <text x="-1.7288" y="-0.635" size="1.27" layer="27" ratio="6">&gt;Value</text>
 </package>
-<package name="SOT65P210X110-3N" library_version="55">
+<package name="SOT65P210X110-3N" library_version="9">
 <description>&lt;b&gt;SC-70_3LEADS&lt;/b&gt;&lt;br&gt;
 </description>
 <text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
@@ -870,7 +870,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="-0.6" y1="-1.45" x2="-0.6" y2="1.45" width="0.2" layer="21"/>
 <wire x1="-1.85" y1="1.5" x2="-0.95" y2="1.5" width="0.2" layer="21"/>
 </package>
-<package name="MYBUTTON" library_version="46">
+<package name="MYBUTTON" library_version="10">
 <description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - SMD, 4.6 x 2.8mm&lt;/h3&gt;
 &lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.ck-components.com/media/1479/kmr2.pdf"&gt;Datasheet&lt;/a&gt;&lt;/p&gt;</description>
@@ -945,7 +945,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-1.397" y="-2.159" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
 <text x="-1.651" y="-3.302" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
 </package>
-<package name="DIOC1608X36N" library_version="44">
+<package name="DIOC1608X36N" library_version="5">
 <wire x1="-0.83" y1="-0.42" x2="-0.83" y2="0.42" width="0.127" layer="51"/>
 <wire x1="-0.83" y1="0.42" x2="0.83" y2="0.42" width="0.127" layer="51"/>
 <wire x1="0.83" y1="0.42" x2="0.83" y2="-0.42" width="0.127" layer="51"/>
@@ -1532,7 +1532,7 @@ Switches electrical signals</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="ESP32_WROVER_FRAMES_A3L-LOC" prefix="FRAME" uservalue="yes" library_version="64">
+<deviceset name="ESP32_WROVER_FRAMES_A3L-LOC" prefix="FRAME" uservalue="yes" library_version="10">
 <description>&lt;b&gt;FRAME&lt;/b&gt;&lt;p&gt;
 DIN A3, landscape with location and doc. field</description>
 <gates>
@@ -1546,7 +1546,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SAMACSYS_PARTS_USB4110-GF-A" prefix="J" library_version="64">
+<deviceset name="SAMACSYS_PARTS_USB4110-GF-A" prefix="J" library_version="10">
 <description>&lt;b&gt;CONN USB 2.0 TYPE-C R/A SMT&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://gct.co/files/drawings/usb4110.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -1591,7 +1591,7 @@ Source: &lt;a href="https://gct.co/files/drawings/usb4110.pdf"&gt; Datasheet &lt
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32C6_VARISTOR" prefix="R" library_version="64">
+<deviceset name="ESP32C6_VARISTOR" prefix="R" library_version="10">
 <description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="ESP32_WROVER_VARISTOR_VARISTOR" x="0" y="0"/>
@@ -1610,7 +1610,7 @@ Source: &lt;a href="https://gct.co/files/drawings/usb4110.pdf"&gt; Datasheet &lt
 </device>
 </devices>
 </deviceset>
-<deviceset name="GND-BAR" prefix="SUPPLY" uservalue="yes" library_version="1">
+<deviceset name="GND-BAR" prefix="SUPPLY" uservalue="yes" library_version="10">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt; - Ground (GND) Bar</description>
 <gates>
 <gate name="G$1" symbol="GND-BAR" x="0" y="0"/>
@@ -1626,7 +1626,7 @@ Source: &lt;a href="https://gct.co/files/drawings/usb4110.pdf"&gt; Datasheet &lt
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_WROVER_EAGLE-LTSPICE_R" prefix="R" uservalue="yes" library_version="1">
+<deviceset name="ESP32_WROVER_EAGLE-LTSPICE_R" prefix="R" uservalue="yes" library_version="10">
 <description>&lt;B&gt;RESISTOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="ESP32_WROVER_EAGLE-LTSPICE_R" x="0" y="0"/>
@@ -1646,7 +1646,7 @@ Source: &lt;a href="https://gct.co/files/drawings/usb4110.pdf"&gt; Datasheet &lt
 </device>
 </devices>
 </deviceset>
-<deviceset name="USBLC6-2SC6Y" prefix="D" library_version="64">
+<deviceset name="USBLC6-2SC6Y" prefix="D" library_version="10">
 <description>&lt;b&gt;Low Cap. ESD Protection Auto SOT-23-6 STMicroelectronics USBLC6-2SC6Y, Dual Uni-Directional TVS Diode Array, 6-Pin SOT-23&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.pdf"&gt; Datasheet &lt;/a&gt;  &lt;a href="https://pricing.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
@@ -1677,7 +1677,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 </device>
 </devices>
 </deviceset>
-<deviceset name="EAGLE-LTSPICE_C" prefix="C" uservalue="yes" library_version="1">
+<deviceset name="EAGLE-LTSPICE_C" prefix="C" uservalue="yes" library_version="10">
 <description>&lt;B&gt;CAPACITOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="EAGLE-LTSPICE_C" x="0" y="0"/>
@@ -1697,7 +1697,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 </device>
 </devices>
 </deviceset>
-<deviceset name="SJ" prefix="SJ" uservalue="yes" library_version="1">
+<deviceset name="SJ" prefix="SJ" uservalue="yes" library_version="10">
 <description>SMD solder &lt;b&gt;JUMPER&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="SJ" x="0" y="0"/>
@@ -1716,7 +1716,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 </device>
 </devices>
 </deviceset>
-<deviceset name="XC6220A331MR-G" prefix="IC" library_version="64">
+<deviceset name="XC6220A331MR-G" prefix="IC" library_version="10">
 <description>&lt;b&gt;LDO Voltage Regulators&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.torexsemi.com/file/xc6220/XC6220.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -1746,7 +1746,7 @@ Source: &lt;a href="https://www.torexsemi.com/file/xc6220/XC6220.pdf"&gt; Datash
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0" prefix="D" library_version="1">
+<deviceset name="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0" prefix="D" library_version="10">
 <description>Schottky Barrier Rectifier Diode</description>
 <gates>
 <gate name="G$0" symbol="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0" x="0" y="0"/>
@@ -1777,7 +1777,7 @@ Source: &lt;a href="https://www.torexsemi.com/file/xc6220/XC6220.pdf"&gt; Datash
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" prefix="Q" library_version="1">
+<deviceset name="ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" prefix="Q" library_version="10">
 <description>&lt;h3&gt;P-channel MOSFETs&lt;/h3&gt;
 &lt;p&gt;Voltage controlled devices that allow control of high current outputs.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;SparkFun Products:&lt;/b&gt;
@@ -1804,7 +1804,7 @@ Source: &lt;a href="https://www.torexsemi.com/file/xc6220/XC6220.pdf"&gt; Datash
 </device>
 </devices>
 </deviceset>
-<deviceset name="RCL_CPOL-EU" prefix="C" uservalue="yes" library_version="64">
+<deviceset name="RCL_CPOL-EU" prefix="C" uservalue="yes" library_version="10">
 <description>&lt;B&gt;POLARIZED CAPACITOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="RCL_CPOL" x="0" y="0"/>
@@ -1824,7 +1824,7 @@ Source: &lt;a href="https://www.torexsemi.com/file/xc6220/XC6220.pdf"&gt; Datash
 </device>
 </devices>
 </deviceset>
-<deviceset name="3V3-CIRCLE" prefix="SUPPLY" uservalue="yes" library_version="1">
+<deviceset name="3V3-CIRCLE" prefix="SUPPLY" uservalue="yes" library_version="10">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;  3.3 Volt (3V3) Circle</description>
 <gates>
 <gate name="G$1" symbol="3V3-CIRCLE" x="0" y="0"/>
@@ -1840,7 +1840,7 @@ Source: &lt;a href="https://www.torexsemi.com/file/xc6220/XC6220.pdf"&gt; Datash
 </device>
 </devices>
 </deviceset>
-<deviceset name="112A-TAAR-R03_ATTEND" prefix="J" library_version="2">
+<deviceset name="112A-TAAR-R03_ATTEND" prefix="J" library_version="10">
 <description>&lt;b&gt;Micro SD Card Socket, Push-Push Type, Top Mount, SMT, H=1.83mm, 10u&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.attend.com.tw/data/download/file/112A-TAAR-R03.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -1881,7 +1881,7 @@ Source: &lt;a href="https://www.attend.com.tw/data/download/file/112A-TAAR-R03.p
 </device>
 </devices>
 </deviceset>
-<deviceset name="MBR0530" prefix="D" library_version="1">
+<deviceset name="MBR0530" prefix="D" library_version="10">
 <description>&lt;b&gt;ON SEMICONDUCTOR - MBR0530 - DIODE, SCHOTTKY, 0.5A, 30V, SOD-123&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="http://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF"&gt; Datasheet &lt;/a&gt;  &lt;a href="https://pricing.snapeda.com/parts/MBR0530/ON%20Semiconductor/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
@@ -1909,7 +1909,7 @@ Source: &lt;a href="http://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF"&gt; Da
 </device>
 </devices>
 </deviceset>
-<deviceset name="744043680" prefix="L" library_version="64">
+<deviceset name="744043680" prefix="L" library_version="10">
 <gates>
 <gate name="A" symbol="IND" x="0" y="0" swaplevel="1"/>
 </gates>
@@ -1929,7 +1929,7 @@ Source: &lt;a href="http://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF"&gt; Da
 </device>
 </devices>
 </deviceset>
-<deviceset name="SI1308EDL-T1-GE3" prefix="Q" library_version="64">
+<deviceset name="SI1308EDL-T1-GE3" prefix="Q" library_version="10">
 <description>&lt;b&gt;MOSFET N-Ch 30V 1.5A TrenchFET SC70 Vishay Si1308EDL-T1-GE3 N-channel MOSFET Transistor, 1.5 A, 30 V, 3-Pin SC-70&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-GE3.pdf"&gt; Datasheet &lt;/a&gt;  &lt;a href="https://pricing.snapeda.com/parts/SI1308EDL-T1-GE3/Vishay%20Siliconix/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
@@ -1958,7 +1958,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831" prefix="U" library_version="64">
+<deviceset name="ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831" prefix="U" library_version="10">
 <description>&lt;h3&gt;MCP73831T Li-Ion, Li-Pol Controller&lt;/h3&gt;
 &lt;p&gt;Miniature single cell, fully integrated Li-Ion, Li-polymer charge management controller
 &lt;li&gt;&lt;a href=”http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf”&gt;Datasheet&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
@@ -1986,7 +1986,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADAFRUIT_LED" prefix="LED" uservalue="yes" library_version="64">
+<deviceset name="ADAFRUIT_LED" prefix="LED" uservalue="yes" library_version="10">
 <description>&lt;b&gt;LED&lt;/b&gt;&lt;p&gt;
 &lt;u&gt;OSRAM&lt;/u&gt;:&lt;br&gt;
 
@@ -2062,7 +2062,7 @@ Source: http://www.osram.convergy.de/</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32-C6-WROOM-1-N8" prefix="U" library_version="1">
+<deviceset name="ESP32-C6-WROOM-1-N8" prefix="U" library_version="10">
 <description> &lt;a href="https://pricing.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif%20Systems/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="ESP32-C6-WROOM-1-N8" x="0" y="0"/>
@@ -2113,7 +2113,7 @@ Source: http://www.osram.convergy.de/</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="FH34SRJ-24S-0.5SH_99_" prefix="J" library_version="1">
+<deviceset name="FH34SRJ-24S-0.5SH_99_" prefix="J" library_version="10">
 <description>&lt;b&gt;24 Position FFC, FPC Connector Contacts, Top and Bottom 0.020" (0.50mm) Surface Mount, Right Angle&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.hirose.com/en/product/document?clcode=CL0580-1255-6-99&amp;productname=FH34SRJ-24S-0.5SH(99)&amp;series=FH34SRJ&amp;documenttype=2DDrawing&amp;lang=en&amp;documentid=0000990903"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -2164,7 +2164,7 @@ Source: &lt;a href="https://www.hirose.com/en/product/document?clcode=CL0580-125
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_WROVER_BME680_BME680" prefix="U" library_version="64">
+<deviceset name="ESP32_WROVER_BME680_BME680" prefix="U" library_version="10">
 <description>Integrated Environmental Unit</description>
 <gates>
 <gate name="G$1" symbol="ESP32_WROVER_BME680_BME680" x="0" y="0"/>
@@ -2193,7 +2193,7 @@ Source: &lt;a href="https://www.hirose.com/en/product/document?clcode=CL0580-125
 </device>
 </devices>
 </deviceset>
-<deviceset name="DS3231SN#" prefix="U" library_version="64">
+<deviceset name="DS3231SN#" prefix="U" library_version="10">
 <description>Real Time Clock Serial 16-Pin SOIC W T/R     &lt;a href="https://pricing.snapeda.com/parts/DS3231SN%23/Analog%20Devices/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="A" symbol="DS3231SN#" x="0" y="0"/>
@@ -2226,7 +2226,7 @@ Source: &lt;a href="https://www.hirose.com/en/product/document?clcode=CL0580-125
 </device>
 </devices>
 </deviceset>
-<deviceset name="CPH3225A" prefix="C" library_version="64">
+<deviceset name="CPH3225A" prefix="C" library_version="10">
 <description>Cap 0.011F 3.3V 1210 Flat &lt;a href="https://pricing.snapeda.com/parts/CPH3225A/Seiko%20Instruments/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="CPH3225A" x="0" y="0"/>
@@ -2253,7 +2253,7 @@ Source: &lt;a href="https://www.hirose.com/en/product/document?clcode=CL0580-125
 </device>
 </devices>
 </deviceset>
-<deviceset name="W25Q512JVEIQ" prefix="U" library_version="64">
+<deviceset name="W25Q512JVEIQ" prefix="U" library_version="10">
 <description> &lt;a href="https://pricing.snapeda.com/parts/W25Q512JVEIQ/Winbond%20Electronics/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="W25Q512JVEIQ" x="0" y="0"/>
@@ -2286,7 +2286,7 @@ Source: &lt;a href="https://www.hirose.com/en/product/document?clcode=CL0580-125
 </device>
 </devices>
 </deviceset>
-<deviceset name="BD5229G-TR" prefix="IC" library_version="64">
+<deviceset name="BD5229G-TR" prefix="IC" library_version="10">
 <description>&lt;b&gt;Voltage Detector with Adjustable Delay Time: CMOS processes are utilized to develop high precision, low current consumption CMOS reset ICs that allow arbitrary setting of the delay time. The extensive lineup includes both Nch Open Drain and CMOS output types in a wide range of detection voltages (from 2.3V to 6.0V, in 0.1V steps), enabling selection of the ideal solution based on customer requirements. In addition, the entire series is of course both lead-free and RoHS-compliant.&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f2b9741ef86007909f138d561a359946.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -2316,7 +2316,7 @@ Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/distributor
 </device>
 </devices>
 </deviceset>
-<deviceset name="BUTTON_CUSYOMV1" library_version="1">
+<deviceset name="BUTTON_CUSYOMV1" library_version="46">
 <gates>
 <gate name="G$1" symbol="MYBUTTON" x="0" y="0"/>
 </gates>
@@ -2334,7 +2334,7 @@ Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/distributor
 </device>
 </devices>
 </deviceset>
-<deviceset name="MAX17048G+T10" prefix="U" library_version="68">
+<deviceset name="MAX17048G+T10" prefix="U" library_version="10">
 <description> &lt;a href="https://pricing.snapeda.com/parts/MAX17048G%2BT10/Analog%20Devices/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="MAX17048G+T10" x="0" y="0"/>
@@ -2368,7 +2368,7 @@ Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/distributor
 </device>
 </devices>
 </deviceset>
-<deviceset name="TP" prefix="TP" library_version="2">
+<deviceset name="TP" prefix="TP" library_version="10">
 <description>&lt;b&gt;Test pad&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="TP" x="0" y="0"/>
@@ -2387,7 +2387,7 @@ Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/distributor
 </device>
 </devices>
 </deviceset>
-<deviceset name="QWIIC_CONNECTOR" prefix="J" uservalue="yes" library_version="66">
+<deviceset name="QWIIC_CONNECTOR" prefix="J" uservalue="yes" library_version="10">
 <description>&lt;h3&gt;SparkFun I&lt;sup&gt;2&lt;/sup&gt;C Standard Qwiic Connector&lt;/h3&gt;
 An SMD 1mm pitch JST connector makes it easy and quick (get it? Qwiic?) to connect I&lt;sup&gt;2&lt;/sup&gt;C devices to each other. The &lt;a href=”http://www.sparkfun.com/qwiic”&gt;Qwiic system&lt;/a&gt; enables fast and solderless connection between popular platforms and various sensors and actuators.
 
@@ -2417,7 +2417,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </device>
 </devices>
 </deviceset>
-<deviceset name="PGB1010603MR" prefix="D" library_version="64">
+<deviceset name="PGB1010603MR" prefix="D" library_version="10">
 <description> &lt;a href="https://pricing.snapeda.com/parts/PGB1010603MR/Littelfuse%20Inc./view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="PGB1010603MR-1" x="0" y="0"/>
@@ -2457,8 +2457,8 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </classes>
 <parts>
 <part name="FRAME1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_FRAMES_A3L-LOC" device=""/>
-<part name="J2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="SAMACSYS_PARTS_USB4110-GF-A" device=""/>
-<part name="PFMF.050.1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32C6_VARISTOR" device="CN1812"/>
+<part uuid="2882400019" name="J2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="SAMACSYS_PARTS_USB4110-GF-A" device=""/>
+<part uuid="2882400006" name="PFMF.050.1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32C6_VARISTOR" device="CN1812"/>
 <part name="SUPPLY1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="R2-USB1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="5k1"/>
 <part name="R2-USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="5k1"/>
@@ -2466,7 +2466,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="SUPPLY3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
-<part name="D1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="USBLC6-2SC6Y" device=""/>
+<part uuid="2882400048" name="D1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="USBLC6-2SC6Y" device=""/>
 <part name="SUPPLY6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="C4_USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part name="C5_USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
@@ -2475,18 +2475,18 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="SUPPLY8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="R2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="2.2"/>
 <part name="SUPPLY9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
-<part name="IC4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="XC6220A331MR-G" device=""/>
+<part uuid="2882400010" name="IC4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="XC6220A331MR-G" device=""/>
 <part name="D2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0" device="AVX_SD0805S020S1R0_0_0"/>
-<part name="Q1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
+<part uuid="2882400050" name="Q1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
 <part name="R1_PWRUSB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="100K"/>
 <part name="SUPPLY10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="C1_BAT1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
 <part name="SUPPLY11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="C1_BAT2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
-<part name="C3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="RCL_CPOL-EU" device="CT3528" value="100uF TANT"/>
+<part uuid="2882400000" name="C3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="RCL_CPOL-EU" device="CT3528" value="100uF TANT"/>
 <part name="SUPPLY12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY13" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
-<part name="J4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="112A-TAAR-R03_ATTEND" device=""/>
+<part uuid="2882400020" name="J4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="112A-TAAR-R03_ATTEND" device=""/>
 <part name="SUPPLY14" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY15" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="C9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
@@ -2496,14 +2496,14 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="D5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="MBR0530" device=""/>
 <part name="SUPPLY17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="C4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF/25V"/>
-<part name="L1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="744043680" device="IND_4828-WE-TPC_WRE" value="68uH"/>
+<part uuid="2882400028" name="L1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="744043680" device="IND_4828-WE-TPC_WRE" value="68uH"/>
 <part name="C7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="10uF"/>
 <part name="SUPPLY18" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="Q3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="SI1308EDL-T1-GE3" device=""/>
 <part name="SUPPLY19" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
-<part name="MCP73831" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831" device=""/>
+<part uuid="2882400004" name="MCP73831" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831" device=""/>
 <part name="R1_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="200"/>
-<part name="CHG_LED" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ADAFRUIT_LED" device="CHIP-LED0603"/>
+<part uuid="2882400054" name="CHG_LED" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ADAFRUIT_LED" device="CHIP-LED0603"/>
 <part name="C1_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
 <part name="SUPPLY20" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="R4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
@@ -2513,12 +2513,12 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="SUPPLY21" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY22" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY23" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
-<part name="U2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32-C6-WROOM-1-N8" device=""/>
+<part uuid="2882400022" name="U2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32-C6-WROOM-1-N8" device=""/>
 <part name="R1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
 <part name="SUPPLY24" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY25" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY26" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="J1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="FH34SRJ-24S-0.5SH_99_" device=""/>
+<part uuid="2882400024" name="J1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="FH34SRJ-24S-0.5SH_99_" device=""/>
 <part name="SUPPLY27" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="EPD_C12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
 <part name="EPD_C11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
@@ -2533,11 +2533,11 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="SUPPLY28" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY29" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY30" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
-<part name="Q2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
+<part uuid="2882400030" name="Q2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
 <part name="R_CL1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
 <part name="SUPPLY31" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY32" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="SENSOR2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_BME680_BME680" device="" value="BME688"/>
+<part uuid="2882400008" name="SENSOR2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_BME680_BME680" device="" value="BME688"/>
 <part name="SUPPLY33" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY34" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="R2-PINH" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
@@ -2545,23 +2545,23 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="C1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part name="C2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part name="SUPPLY35" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
-<part name="U3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="DS3231SN#" device=""/>
+<part uuid="2882400026" name="U3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="DS3231SN#" device=""/>
 <part name="SUPPLY36" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY37" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="D7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0" device="AVX_SD0805S020S1R0_0_0"/>
 <part name="SUPPLY38" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="R_CAPACITOR" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="15"/>
 <part name="C8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
-<part name="C10_SUPERCAP" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="CPH3225A" device=""/>
+<part uuid="2882400012" name="C10_SUPERCAP" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="CPH3225A" device=""/>
 <part name="SUPPLY39" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="R1_PINH1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
 <part name="R2-PINH1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
 <part name="SUPPLY40" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="U1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="W25Q512JVEIQ" device=""/>
+<part uuid="2882400002" name="U1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="W25Q512JVEIQ" device=""/>
 <part name="SUPPLY41" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY42" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY43" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
-<part name="IC1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="BD5229G-TR" device=""/>
+<part uuid="2882400014" name="IC1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="BD5229G-TR" device=""/>
 <part name="C_DELAY" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part name="SUPPLY44" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY45" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
@@ -2581,7 +2581,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="SUPPLY51" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY52" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="CHANGE_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="BUTTON_CUSYOMV1" device=""/>
-<part name="U4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="MAX17048G+T10" device=""/>
+<part uuid="2882400013" name="U4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="MAX17048G+T10" device=""/>
 <part name="SUPPLY53" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY54" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY55" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
@@ -2603,7 +2603,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="TP15" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="TP" device="TP20R" value="INT_RTC"/>
 <part name="TP16" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="TP" device="TP20R" value="3V3"/>
 <part name="TP17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="TP" device="TP20R" value="EPD_3V3"/>
-<part name="J3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="QWIIC_CONNECTOR" device="JS-1MM" package3d_urn="urn:adsk.eagle:package:41390393/1" value="QWIIC_RIGHT_ANGLE"/>
+<part uuid="2882400016" name="J3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="QWIIC_CONNECTOR" device="JS-1MM" package3d_urn="urn:adsk.eagle:package:41390393/1" value="QWIIC_RIGHT_ANGLE"/>
 <part name="SUPPLY57" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="GND-BAR" device="" value="GND"/>
 <part name="SUPPLY58" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="D6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.Kd4qh7i-SmeV8ly5PQuzig" deviceset="PGB1010603MR" device=""/>
@@ -3103,6 +3103,7 @@ Stemma QT</text>
 </instance>
 <instance part="RESET_BUTTON" gate="G$1" x="269.24" y="91.44" smashed="yes" rot="R90">
 <attribute name="NAME" x="264.414" y="88.9" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="272.034" y="91.44" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
 <instance part="C5" gate="G$1" x="276.86" y="91.44" smashed="yes">
 <attribute name="NAME" x="280.924" y="91.821" size="1.778" layer="95" rot="R90"/>
@@ -3113,6 +3114,7 @@ Stemma QT</text>
 </instance>
 <instance part="BOOT_BUTTON" gate="G$1" x="289.56" y="91.44" smashed="yes" rot="R90">
 <attribute name="NAME" x="284.734" y="91.44" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="292.354" y="91.44" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
 <instance part="R_BOOT" gate="G$1" x="292.1" y="111.76" smashed="yes" rot="R270">
 <attribute name="VALUE" x="288.798" y="115.57" size="1.778" layer="96" rot="R270"/>
@@ -3146,6 +3148,7 @@ Stemma QT</text>
 </instance>
 <instance part="CHANGE_BUTTON" gate="G$1" x="309.88" y="91.44" smashed="yes" rot="R90">
 <attribute name="NAME" x="305.054" y="91.44" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="312.674" y="91.44" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
 <instance part="U4" gate="G$1" x="353.06" y="106.68" smashed="yes">
 <attribute name="NAME" x="340.36" y="122.92" size="2.0828" layer="95" ratio="10" rot="SR0"/>
@@ -3311,33 +3314,32 @@ Stemma QT</text>
 <label x="99.06" y="238.76" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="C4_USB" gate="G$1" pin="1"/>
 <wire x1="116.84" y1="218.44" x2="116.84" y2="220.98" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="220.98" x2="127" y2="220.98" width="0.1524" layer="91"/>
 <wire x1="127" y1="220.98" x2="137.16" y2="220.98" width="0.1524" layer="91"/>
 <wire x1="137.16" y1="220.98" x2="137.16" y2="218.44" width="0.1524" layer="91"/>
-<pinref part="C5_USB" gate="G$1" pin="1"/>
 <junction x="127" y="220.98"/>
 <wire x1="127" y1="220.98" x2="127" y2="223.52" width="0.1524" layer="91"/>
 <label x="127" y="223.52" size="1.016" layer="95" xref="yes"/>
+<pinref part="C4_USB" gate="G$1" pin="1"/>
+<pinref part="C5_USB" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="R1_PWRUSB" gate="G$1" pin="2"/>
 <wire x1="157.48" y1="213.36" x2="157.48" y2="226.06" width="0.1524" layer="91"/>
-<pinref part="Q1" gate="G$1" pin="G"/>
 <wire x1="157.48" y1="226.06" x2="157.48" y2="236.22" width="0.1524" layer="91"/>
 <wire x1="177.8" y1="226.06" x2="162.56" y2="226.06" width="0.1524" layer="91"/>
 <junction x="157.48" y="226.06"/>
-<pinref part="D2" gate="G$0" pin="ANODE"/>
 <wire x1="162.56" y1="226.06" x2="157.48" y2="226.06" width="0.1524" layer="91"/>
 <wire x1="162.56" y1="218.44" x2="162.56" y2="226.06" width="0.1524" layer="91"/>
 <junction x="162.56" y="226.06"/>
 <label x="157.48" y="236.22" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="R1_PWRUSB" gate="G$1" pin="2"/>
+<pinref part="D2" gate="G$0" pin="ANODE"/>
+<pinref part="Q1" gate="G$1" pin="G"/>
 </segment>
 <segment>
 <pinref part="MCP73831" gate="G$1" pin="VIN"/>
 <wire x1="210.82" y1="175.26" x2="198.12" y2="175.26" width="0.1524" layer="91"/>
-<pinref part="C1_BAT" gate="G$1" pin="1"/>
 <wire x1="198.12" y1="175.26" x2="185.42" y2="175.26" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="175.26" x2="180.34" y2="175.26" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="167.64" x2="185.42" y2="175.26" width="0.1524" layer="91"/>
@@ -3346,6 +3348,7 @@ Stemma QT</text>
 <wire x1="198.12" y1="165.1" x2="198.12" y2="175.26" width="0.1524" layer="91"/>
 <junction x="198.12" y="175.26"/>
 <label x="180.34" y="175.26" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="C1_BAT" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="TP14" gate="G$1" pin="TP"/>
@@ -3387,9 +3390,9 @@ Stemma QT</text>
 <pinref part="J2" gate="G$1" pin="A1"/>
 </segment>
 <segment>
-<pinref part="R2-USB" gate="G$1" pin="2"/>
 <wire x1="88.9" y1="223.52" x2="91.44" y2="223.52" width="0.1524" layer="91"/>
 <pinref part="SUPPLY2" gate="G$1" pin="GND"/>
+<pinref part="R2-USB" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY3" gate="G$1" pin="GND"/>
@@ -3436,13 +3439,13 @@ Stemma QT</text>
 <segment>
 <pinref part="SUPPLY7" gate="G$1" pin="GND"/>
 <wire x1="127" y1="205.74" x2="127" y2="208.28" width="0.1524" layer="91"/>
-<pinref part="C4_USB" gate="G$1" pin="2"/>
 <wire x1="116.84" y1="210.82" x2="116.84" y2="208.28" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="208.28" x2="127" y2="208.28" width="0.1524" layer="91"/>
 <wire x1="127" y1="208.28" x2="137.16" y2="208.28" width="0.1524" layer="91"/>
 <wire x1="137.16" y1="208.28" x2="137.16" y2="210.82" width="0.1524" layer="91"/>
-<pinref part="C5_USB" gate="G$1" pin="2"/>
 <junction x="127" y="208.28"/>
+<pinref part="C4_USB" gate="G$1" pin="2"/>
+<pinref part="C5_USB" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY8" gate="G$1" pin="GND"/>
@@ -3464,23 +3467,23 @@ Stemma QT</text>
 <segment>
 <pinref part="SUPPLY11" gate="G$1" pin="GND"/>
 <wire x1="190.5" y1="200.66" x2="190.5" y2="203.2" width="0.1524" layer="91"/>
-<pinref part="C1_BAT1" gate="G$1" pin="2"/>
 <pinref part="IC4" gate="G$1" pin="VSS"/>
 <wire x1="190.5" y1="203.2" x2="190.5" y2="205.74" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="215.9" x2="210.82" y2="215.9" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="215.9" x2="210.82" y2="203.2" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="203.2" x2="190.5" y2="203.2" width="0.1524" layer="91"/>
 <junction x="190.5" y="203.2"/>
+<pinref part="C1_BAT1" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY13" gate="G$1" pin="GND"/>
 <wire x1="246.38" y1="198.12" x2="246.38" y2="203.2" width="0.1524" layer="91"/>
-<pinref part="C1_BAT2" gate="G$1" pin="2"/>
 <pinref part="C3" gate="G$1" pin="-"/>
 <wire x1="246.38" y1="203.2" x2="246.38" y2="205.74" width="0.1524" layer="91"/>
 <wire x1="256.54" y1="205.74" x2="256.54" y2="203.2" width="0.1524" layer="91"/>
 <wire x1="256.54" y1="203.2" x2="246.38" y2="203.2" width="0.1524" layer="91"/>
 <junction x="246.38" y="203.2"/>
+<pinref part="C1_BAT2" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY14" gate="G$1" pin="GND"/>
@@ -3501,23 +3504,23 @@ Stemma QT</text>
 <junction x="297.18" y="228.6"/>
 </segment>
 <segment>
-<pinref part="C9" gate="G$1" pin="2"/>
 <wire x1="360.68" y1="233.68" x2="365.76" y2="233.68" width="0.1524" layer="91"/>
 <wire x1="365.76" y1="233.68" x2="365.76" y2="228.6" width="0.1524" layer="91"/>
 <pinref part="SUPPLY15" gate="G$1" pin="GND"/>
 <pinref part="J4" gate="G$1" pin="VSS"/>
 <wire x1="340.36" y1="228.6" x2="365.76" y2="228.6" width="0.1524" layer="91"/>
 <junction x="365.76" y="228.6"/>
+<pinref part="C9" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="D3" gate="G$1" pin="K"/>
 <wire x1="114.3" y1="177.8" x2="116.84" y2="177.8" width="0.1524" layer="91"/>
 <pinref part="SUPPLY17" gate="G$1" pin="GND"/>
+<pinref part="D3" gate="G$1" pin="K"/>
 </segment>
 <segment>
-<pinref part="C7" gate="G$1" pin="2"/>
 <wire x1="63.5" y1="157.48" x2="63.5" y2="154.94" width="0.1524" layer="91"/>
 <pinref part="SUPPLY18" gate="G$1" pin="GND"/>
+<pinref part="C7" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY20" gate="G$1" pin="GND"/>
@@ -3536,14 +3539,14 @@ Stemma QT</text>
 <pinref part="SUPPLY23" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C2_BAT" gate="G$1" pin="2"/>
 <wire x1="259.08" y1="160.02" x2="259.08" y2="154.94" width="0.1524" layer="91"/>
 <pinref part="SUPPLY22" gate="G$1" pin="GND"/>
+<pinref part="C2_BAT" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="R2_BAT" gate="G$1" pin="1"/>
 <wire x1="246.38" y1="157.48" x2="246.38" y2="154.94" width="0.1524" layer="91"/>
 <pinref part="SUPPLY21" gate="G$1" pin="GND"/>
+<pinref part="R2_BAT" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="U2" gate="G$1" pin="GND"/>
@@ -3561,11 +3564,9 @@ Stemma QT</text>
 <junction x="86.36" y="121.92"/>
 </segment>
 <segment>
-<pinref part="EPD_C5" gate="G$1" pin="2"/>
 <wire x1="22.86" y1="101.6" x2="20.32" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="20.32" y1="101.6" x2="20.32" y2="109.22" width="0.1524" layer="91"/>
 <pinref part="SUPPLY28" gate="G$1" pin="GND"/>
-<pinref part="EPD_C12" gate="G$1" pin="2"/>
 <wire x1="20.32" y1="109.22" x2="20.32" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="20.32" y1="111.76" x2="20.32" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="20.32" y1="114.3" x2="20.32" y2="116.84" width="0.1524" layer="91"/>
@@ -3575,24 +3576,26 @@ Stemma QT</text>
 <wire x1="20.32" y1="124.46" x2="20.32" y2="127" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="124.46" x2="20.32" y2="124.46" width="0.1524" layer="91"/>
 <junction x="20.32" y="124.46"/>
-<pinref part="EPD_C11" gate="G$1" pin="2"/>
 <wire x1="33.02" y1="121.92" x2="20.32" y2="121.92" width="0.1524" layer="91"/>
 <junction x="20.32" y="121.92"/>
-<pinref part="EPD_C9" gate="G$1" pin="2"/>
 <wire x1="27.94" y1="116.84" x2="20.32" y2="116.84" width="0.1524" layer="91"/>
 <junction x="20.32" y="116.84"/>
-<pinref part="EPD_C7" gate="G$1" pin="2"/>
 <wire x1="27.94" y1="111.76" x2="20.32" y2="111.76" width="0.1524" layer="91"/>
 <junction x="20.32" y="111.76"/>
-<pinref part="EPD_C10" gate="G$1" pin="2"/>
 <wire x1="45.72" y1="119.38" x2="20.32" y2="119.38" width="0.1524" layer="91"/>
 <junction x="20.32" y="119.38"/>
-<pinref part="EPD_C8" gate="G$1" pin="2"/>
 <wire x1="40.64" y1="114.3" x2="20.32" y2="114.3" width="0.1524" layer="91"/>
 <junction x="20.32" y="114.3"/>
-<pinref part="EPD_C6" gate="G$1" pin="2"/>
 <wire x1="40.64" y1="109.22" x2="20.32" y2="109.22" width="0.1524" layer="91"/>
 <junction x="20.32" y="109.22"/>
+<pinref part="EPD_C12" gate="G$1" pin="2"/>
+<pinref part="EPD_C11" gate="G$1" pin="2"/>
+<pinref part="EPD_C10" gate="G$1" pin="2"/>
+<pinref part="EPD_C9" gate="G$1" pin="2"/>
+<pinref part="EPD_C8" gate="G$1" pin="2"/>
+<pinref part="EPD_C7" gate="G$1" pin="2"/>
+<pinref part="EPD_C6" gate="G$1" pin="2"/>
+<pinref part="EPD_C5" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="17"/>
@@ -3601,7 +3604,6 @@ Stemma QT</text>
 <pinref part="SUPPLY29" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="EPD_C1" gate="G$1" pin="2"/>
 <wire x1="22.86" y1="73.66" x2="17.78" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="17.78" y1="73.66" x2="10.16" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="10.16" y1="73.66" x2="10.16" y2="83.82" width="0.1524" layer="91"/>
@@ -3610,10 +3612,11 @@ Stemma QT</text>
 <wire x1="10.16" y1="83.82" x2="10.16" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="55.88" y1="83.82" x2="10.16" y2="83.82" width="0.1524" layer="91"/>
 <junction x="10.16" y="83.82"/>
-<pinref part="EPD_C2" gate="G$1" pin="2"/>
 <wire x1="30.48" y1="76.2" x2="17.78" y2="76.2" width="0.1524" layer="91"/>
 <wire x1="17.78" y1="76.2" x2="17.78" y2="73.66" width="0.1524" layer="91"/>
 <junction x="17.78" y="73.66"/>
+<pinref part="EPD_C2" gate="G$1" pin="2"/>
+<pinref part="EPD_C1" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SENSOR2" gate="G$1" pin="GND"/>
@@ -3628,24 +3631,24 @@ Stemma QT</text>
 <pinref part="SENSOR2" gate="G$1" pin="SDO"/>
 </segment>
 <segment>
-<pinref part="C2" gate="G$1" pin="2"/>
 <wire x1="195.58" y1="71.12" x2="195.58" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="195.58" y1="68.58" x2="203.2" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="SUPPLY35" gate="G$1" pin="GND"/>
 <wire x1="203.2" y1="68.58" x2="210.82" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="68.58" x2="210.82" y2="71.12" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="2"/>
 <junction x="203.2" y="68.58"/>
+<pinref part="C1" gate="G$1" pin="2"/>
+<pinref part="C2" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="C10_SUPERCAP" gate="G$1" pin="1"/>
 <wire x1="101.6" y1="17.78" x2="101.6" y2="15.24" width="0.1524" layer="91"/>
 <pinref part="SUPPLY39" gate="G$1" pin="GND"/>
-<pinref part="C8" gate="G$1" pin="2"/>
 <wire x1="101.6" y1="15.24" x2="101.6" y2="12.7" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="17.78" x2="93.98" y2="15.24" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="15.24" x2="101.6" y2="15.24" width="0.1524" layer="91"/>
 <junction x="101.6" y="15.24"/>
+<pinref part="C8" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="U3" gate="A" pin="GND"/>
@@ -3664,9 +3667,9 @@ Stemma QT</text>
 <junction x="363.22" y="30.48"/>
 </segment>
 <segment>
-<pinref part="C_DELAY" gate="G$1" pin="2"/>
 <wire x1="228.6" y1="83.82" x2="228.6" y2="78.74" width="0.1524" layer="91"/>
 <pinref part="SUPPLY44" gate="G$1" pin="GND"/>
+<pinref part="C_DELAY" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="GND"/>
@@ -3674,43 +3677,43 @@ Stemma QT</text>
 <pinref part="SUPPLY45" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="RESET_BUTTON" gate="G$1" pin="1"/>
 <wire x1="269.24" y1="86.36" x2="271.78" y2="86.36" width="0.1524" layer="91"/>
-<pinref part="RESET_BUTTON" gate="G$1" pin="2"/>
 <wire x1="271.78" y1="86.36" x2="271.78" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="SUPPLY48" gate="G$1" pin="GND"/>
-<pinref part="C5" gate="G$1" pin="2"/>
 <wire x1="271.78" y1="83.82" x2="271.78" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="276.86" y1="86.36" x2="276.86" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="276.86" y1="83.82" x2="271.78" y2="83.82" width="0.1524" layer="91"/>
 <junction x="271.78" y="86.36"/>
 <junction x="271.78" y="83.82"/>
+<pinref part="C5" gate="G$1" pin="2"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="1"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="BOOT_BUTTON" gate="G$1" pin="1"/>
 <wire x1="289.56" y1="86.36" x2="292.1" y2="86.36" width="0.1524" layer="91"/>
-<pinref part="BOOT_BUTTON" gate="G$1" pin="2"/>
 <wire x1="292.1" y1="86.36" x2="292.1" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="SUPPLY51" gate="G$1" pin="GND"/>
-<pinref part="C6" gate="G$1" pin="2"/>
 <wire x1="292.1" y1="83.82" x2="292.1" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="297.18" y1="86.36" x2="297.18" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="297.18" y1="83.82" x2="292.1" y2="83.82" width="0.1524" layer="91"/>
 <junction x="292.1" y="86.36"/>
 <junction x="292.1" y="83.82"/>
+<pinref part="C6" gate="G$1" pin="2"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="1"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="CHANGE_BUTTON" gate="G$1" pin="2"/>
 <wire x1="312.42" y1="86.36" x2="309.88" y2="86.36" width="0.1524" layer="91"/>
-<pinref part="CHANGE_BUTTON" gate="G$1" pin="1"/>
 <wire x1="312.42" y1="86.36" x2="312.42" y2="83.82" width="0.1524" layer="91"/>
 <junction x="312.42" y="86.36"/>
 <pinref part="SUPPLY52" gate="G$1" pin="GND"/>
-<pinref part="C10" gate="G$1" pin="2"/>
 <wire x1="312.42" y1="83.82" x2="312.42" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="317.5" y1="86.36" x2="317.5" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="317.5" y1="83.82" x2="312.42" y2="83.82" width="0.1524" layer="91"/>
 <junction x="312.42" y="83.82"/>
+<pinref part="C10" gate="G$1" pin="2"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="1"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY53" gate="G$1" pin="GND"/>
@@ -3754,29 +3757,29 @@ Stemma QT</text>
 <wire x1="256.54" y1="5.08" x2="266.7" y2="5.08" width="0.1524" layer="91"/>
 <wire x1="266.7" y1="5.08" x2="276.86" y2="5.08" width="0.1524" layer="91"/>
 <wire x1="276.86" y1="5.08" x2="276.86" y2="10.16" width="0.1524" layer="91"/>
-<pinref part="D8" gate="G$1" pin="2"/>
-<pinref part="D12" gate="G$1" pin="2"/>
 <wire x1="226.06" y1="10.16" x2="226.06" y2="5.08" width="0.1524" layer="91"/>
 <junction x="226.06" y="5.08"/>
-<pinref part="D11" gate="G$1" pin="2"/>
 <wire x1="236.22" y1="10.16" x2="236.22" y2="5.08" width="0.1524" layer="91"/>
 <junction x="236.22" y="5.08"/>
-<pinref part="D10" gate="G$1" pin="2"/>
 <wire x1="246.38" y1="10.16" x2="246.38" y2="5.08" width="0.1524" layer="91"/>
 <junction x="246.38" y="5.08"/>
-<pinref part="D9" gate="G$1" pin="2"/>
 <wire x1="256.54" y1="10.16" x2="256.54" y2="5.08" width="0.1524" layer="91"/>
 <junction x="256.54" y="5.08"/>
-<pinref part="D6" gate="G$1" pin="2"/>
 <wire x1="266.7" y1="10.16" x2="266.7" y2="5.08" width="0.1524" layer="91"/>
 <junction x="266.7" y="5.08"/>
+<pinref part="D6" gate="G$1" pin="2"/>
+<pinref part="D8" gate="G$1" pin="2"/>
+<pinref part="D9" gate="G$1" pin="2"/>
+<pinref part="D10" gate="G$1" pin="2"/>
+<pinref part="D11" gate="G$1" pin="2"/>
+<pinref part="D12" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$1" class="0">
 <segment>
-<pinref part="R2-USB1" gate="G$1" pin="2"/>
 <wire x1="43.18" y1="218.44" x2="50.8" y2="218.44" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="A5"/>
+<pinref part="R2-USB1" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$2" class="0">
@@ -3853,51 +3856,51 @@ Stemma QT</text>
 <label x="40.64" y="172.72" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R2" gate="G$1" pin="2"/>
 <wire x1="33.02" y1="160.02" x2="40.64" y2="160.02" width="0.1524" layer="91"/>
 <label x="40.64" y="160.02" size="1.016" layer="95" xref="yes"/>
+<pinref part="R2" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="R3" gate="G$1" pin="2"/>
 <wire x1="152.4" y1="152.4" x2="152.4" y2="149.86" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="149.86" x2="154.94" y2="149.86" width="0.1524" layer="91"/>
 <label x="154.94" y="149.86" size="1.016" layer="95" xref="yes"/>
+<pinref part="R3" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
-<pinref part="D2" gate="G$0" pin="CATHODE"/>
 <pinref part="IC4" gate="G$1" pin="VIN"/>
-<pinref part="Q1" gate="G$1" pin="S"/>
 <wire x1="177.8" y1="218.44" x2="185.42" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="218.44" x2="190.5" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="190.5" y1="218.44" x2="205.74" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="205.74" y1="218.44" x2="213.36" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="223.52" x2="185.42" y2="218.44" width="0.1524" layer="91"/>
 <junction x="185.42" y="218.44"/>
-<pinref part="C1_BAT1" gate="G$1" pin="1"/>
 <wire x1="190.5" y1="213.36" x2="190.5" y2="218.44" width="0.1524" layer="91"/>
 <junction x="190.5" y="218.44"/>
 <pinref part="IC4" gate="G$1" pin="CE"/>
 <wire x1="213.36" y1="213.36" x2="205.74" y2="213.36" width="0.1524" layer="91"/>
 <wire x1="205.74" y1="213.36" x2="205.74" y2="218.44" width="0.1524" layer="91"/>
 <junction x="205.74" y="218.44"/>
+<pinref part="C1_BAT1" gate="G$1" pin="1"/>
+<pinref part="D2" gate="G$0" pin="CATHODE"/>
+<pinref part="Q1" gate="G$1" pin="S"/>
 </segment>
 </net>
 <net name="VBAT" class="0">
 <segment>
-<pinref part="Q1" gate="G$1" pin="D"/>
 <wire x1="185.42" y1="233.68" x2="185.42" y2="236.22" width="0.1524" layer="91"/>
 <label x="185.42" y="236.22" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="Q1" gate="G$1" pin="D"/>
 </segment>
 <segment>
 <pinref part="MCP73831" gate="G$1" pin="VBAT"/>
 <wire x1="231.14" y1="175.26" x2="259.08" y2="175.26" width="0.1524" layer="91"/>
 <wire x1="259.08" y1="175.26" x2="259.08" y2="167.64" width="0.1524" layer="91"/>
-<pinref part="C2_BAT" gate="G$1" pin="1"/>
 <wire x1="259.08" y1="175.26" x2="261.62" y2="175.26" width="0.1524" layer="91"/>
 <label x="261.62" y="175.26" size="1.016" layer="95" xref="yes"/>
 <junction x="259.08" y="175.26"/>
+<pinref part="C2_BAT" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="U4" gate="G$1" pin="CELL"/>
@@ -3920,7 +3923,6 @@ Stemma QT</text>
 <pinref part="IC4" gate="G$1" pin="VOUT"/>
 <wire x1="241.3" y1="215.9" x2="246.38" y2="215.9" width="0.1524" layer="91"/>
 <pinref part="SUPPLY12" gate="G$1" pin="3V3"/>
-<pinref part="C1_BAT2" gate="G$1" pin="1"/>
 <wire x1="246.38" y1="215.9" x2="256.54" y2="215.9" width="0.1524" layer="91"/>
 <wire x1="256.54" y1="215.9" x2="261.62" y2="215.9" width="0.1524" layer="91"/>
 <wire x1="246.38" y1="213.36" x2="246.38" y2="215.9" width="0.1524" layer="91"/>
@@ -3928,15 +3930,16 @@ Stemma QT</text>
 <pinref part="C3" gate="G$1" pin="+"/>
 <wire x1="256.54" y1="213.36" x2="256.54" y2="215.9" width="0.1524" layer="91"/>
 <junction x="256.54" y="215.9"/>
+<pinref part="C1_BAT2" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="SUPPLY16" gate="G$1" pin="3V3"/>
 <wire x1="345.44" y1="241.3" x2="345.44" y2="233.68" width="0.1524" layer="91"/>
 <pinref part="J4" gate="G$1" pin="VDD"/>
 <wire x1="340.36" y1="233.68" x2="345.44" y2="233.68" width="0.1524" layer="91"/>
-<pinref part="C9" gate="G$1" pin="1"/>
 <wire x1="345.44" y1="233.68" x2="353.06" y2="233.68" width="0.1524" layer="91"/>
 <junction x="345.44" y="233.68"/>
+<pinref part="C9" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="U2" gate="G$1" pin="3V3"/>
@@ -3945,14 +3948,14 @@ Stemma QT</text>
 <pinref part="SUPPLY25" gate="G$1" pin="3V3"/>
 </segment>
 <segment>
-<pinref part="R1" gate="G$1" pin="1"/>
 <wire x1="287.02" y1="175.26" x2="287.02" y2="177.8" width="0.1524" layer="91"/>
 <pinref part="SUPPLY26" gate="G$1" pin="3V3"/>
+<pinref part="R1" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="Q2" gate="G$1" pin="D"/>
 <wire x1="121.92" y1="106.68" x2="121.92" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="SUPPLY31" gate="G$1" pin="3V3"/>
+<pinref part="Q2" gate="G$1" pin="D"/>
 </segment>
 <segment>
 <pinref part="SUPPLY32" gate="G$1" pin="3V3"/>
@@ -3972,14 +3975,14 @@ Stemma QT</text>
 <pinref part="D7" gate="G$0" pin="ANODE"/>
 </segment>
 <segment>
-<pinref part="R2-PINH1" gate="G$1" pin="2"/>
 <wire x1="119.38" y1="30.48" x2="119.38" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="40.64" x2="124.46" y2="40.64" width="0.1524" layer="91"/>
 <pinref part="SUPPLY40" gate="G$1" pin="3V3"/>
 <wire x1="124.46" y1="40.64" x2="129.54" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="40.64" x2="129.54" y2="30.48" width="0.1524" layer="91"/>
-<pinref part="R1_PINH1" gate="G$1" pin="2"/>
 <junction x="124.46" y="40.64"/>
+<pinref part="R1_PINH1" gate="G$1" pin="2"/>
+<pinref part="R2-PINH1" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="VCC"/>
@@ -4000,9 +4003,9 @@ Stemma QT</text>
 <pinref part="SUPPLY46" gate="G$1" pin="3V3"/>
 </segment>
 <segment>
-<pinref part="R_RESET" gate="G$1" pin="1"/>
 <wire x1="271.78" y1="116.84" x2="271.78" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="SUPPLY47" gate="G$1" pin="3V3"/>
+<pinref part="R_RESET" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="SUPPLY49" gate="G$1" pin="3V3"/>
@@ -4010,9 +4013,9 @@ Stemma QT</text>
 <pinref part="R_BOOT" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="R_CHANGE" gate="G$1" pin="1"/>
 <wire x1="312.42" y1="116.84" x2="312.42" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="SUPPLY50" gate="G$1" pin="3V3"/>
+<pinref part="R_CHANGE" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="TP16" gate="G$1" pin="TP"/>
@@ -4026,11 +4029,9 @@ Stemma QT</text>
 <pinref part="SUPPLY58" gate="G$1" pin="3V3"/>
 </segment>
 <segment>
-<pinref part="R8" gate="G$1" pin="2"/>
 <wire x1="226.06" y1="43.18" x2="226.06" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="226.06" y1="48.26" x2="236.22" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="SUPPLY60" gate="G$1" pin="3V3"/>
-<pinref part="R7" gate="G$1" pin="2"/>
 <wire x1="236.22" y1="48.26" x2="246.38" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="246.38" y1="48.26" x2="256.54" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="256.54" y1="48.26" x2="266.7" y2="48.26" width="0.1524" layer="91"/>
@@ -4038,18 +4039,20 @@ Stemma QT</text>
 <wire x1="276.86" y1="48.26" x2="284.48" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="236.22" y1="43.18" x2="236.22" y2="48.26" width="0.1524" layer="91"/>
 <junction x="236.22" y="48.26"/>
-<pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="246.38" y1="43.18" x2="246.38" y2="48.26" width="0.1524" layer="91"/>
 <junction x="246.38" y="48.26"/>
-<pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="256.54" y1="43.18" x2="256.54" y2="48.26" width="0.1524" layer="91"/>
 <junction x="256.54" y="48.26"/>
-<pinref part="R9" gate="G$1" pin="2"/>
 <wire x1="266.7" y1="43.18" x2="266.7" y2="48.26" width="0.1524" layer="91"/>
 <junction x="266.7" y="48.26"/>
-<pinref part="R10" gate="G$1" pin="2"/>
 <wire x1="276.86" y1="43.18" x2="276.86" y2="48.26" width="0.1524" layer="91"/>
 <junction x="276.86" y="48.26"/>
+<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="R6" gate="G$1" pin="2"/>
+<pinref part="R7" gate="G$1" pin="2"/>
+<pinref part="R8" gate="G$1" pin="2"/>
+<pinref part="R9" gate="G$1" pin="2"/>
+<pinref part="R10" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="SS_SD" class="0">
@@ -4064,13 +4067,13 @@ Stemma QT</text>
 <label x="309.88" y="175.26" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R10" gate="G$1" pin="1"/>
 <wire x1="276.86" y1="33.02" x2="276.86" y2="25.4" width="0.1524" layer="91"/>
-<pinref part="D8" gate="G$1" pin="1"/>
 <wire x1="276.86" y1="25.4" x2="276.86" y2="20.32" width="0.1524" layer="91"/>
 <junction x="276.86" y="25.4"/>
 <wire x1="276.86" y1="25.4" x2="279.4" y2="25.4" width="0.1524" layer="91"/>
 <label x="279.4" y="25.4" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="R10" gate="G$1" pin="1"/>
+<pinref part="D8" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="MOSI" class="0">
@@ -4100,13 +4103,13 @@ Stemma QT</text>
 <label x="149.86" y="27.94" size="1.016" layer="95" rot="R90" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R7" gate="G$1" pin="1"/>
 <wire x1="236.22" y1="33.02" x2="236.22" y2="25.4" width="0.1524" layer="91"/>
-<pinref part="D11" gate="G$1" pin="1"/>
 <wire x1="236.22" y1="25.4" x2="236.22" y2="20.32" width="0.1524" layer="91"/>
 <junction x="236.22" y="25.4"/>
 <wire x1="236.22" y1="25.4" x2="238.76" y2="25.4" width="0.1524" layer="91"/>
 <label x="238.76" y="25.4" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="R7" gate="G$1" pin="1"/>
+<pinref part="D11" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="MISO" class="0">
@@ -4131,13 +4134,13 @@ Stemma QT</text>
 <label x="142.24" y="27.94" size="1.016" layer="95" rot="R90" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R8" gate="G$1" pin="1"/>
 <wire x1="226.06" y1="33.02" x2="226.06" y2="25.4" width="0.1524" layer="91"/>
-<pinref part="D12" gate="G$1" pin="1"/>
 <wire x1="226.06" y1="25.4" x2="226.06" y2="20.32" width="0.1524" layer="91"/>
 <junction x="226.06" y="25.4"/>
 <wire x1="226.06" y1="25.4" x2="228.6" y2="25.4" width="0.1524" layer="91"/>
 <label x="228.6" y="25.4" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="R8" gate="G$1" pin="1"/>
+<pinref part="D12" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="SCK" class="0">
@@ -4167,71 +4170,70 @@ Stemma QT</text>
 <label x="157.48" y="30.48" size="1.016" layer="95" rot="R90" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R6" gate="G$1" pin="1"/>
 <wire x1="246.38" y1="33.02" x2="246.38" y2="25.4" width="0.1524" layer="91"/>
-<pinref part="D10" gate="G$1" pin="1"/>
 <wire x1="246.38" y1="25.4" x2="246.38" y2="20.32" width="0.1524" layer="91"/>
 <junction x="246.38" y="25.4"/>
 <wire x1="246.38" y1="25.4" x2="248.92" y2="25.4" width="0.1524" layer="91"/>
 <label x="248.92" y="25.4" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="R6" gate="G$1" pin="1"/>
+<pinref part="D10" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="PREVGL" class="0">
 <segment>
-<pinref part="D4" gate="G$1" pin="A"/>
 <wire x1="114.3" y1="170.18" x2="116.84" y2="170.18" width="0.1524" layer="91"/>
 <label x="116.84" y="170.18" size="1.016" layer="95" xref="yes"/>
+<pinref part="D4" gate="G$1" pin="A"/>
 </segment>
 <segment>
-<pinref part="EPD_C11" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="121.92" x2="48.26" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="23"/>
 <wire x1="48.26" y1="121.92" x2="55.88" y2="121.92" width="0.1524" layer="91"/>
 <junction x="48.26" y="121.92"/>
 <wire x1="48.26" y1="121.92" x2="48.26" y2="127" width="0.1524" layer="91"/>
 <label x="48.26" y="127" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="EPD_C11" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="PREVGH" class="0">
 <segment>
-<pinref part="D5" gate="G$1" pin="K"/>
 <wire x1="114.3" y1="157.48" x2="116.84" y2="157.48" width="0.1524" layer="91"/>
 <label x="116.84" y="157.48" size="1.016" layer="95" xref="yes"/>
+<pinref part="D5" gate="G$1" pin="K"/>
 </segment>
 <segment>
-<pinref part="EPD_C9" gate="G$1" pin="1"/>
 <wire x1="35.56" y1="116.84" x2="43.18" y2="116.84" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="21"/>
 <wire x1="43.18" y1="116.84" x2="55.88" y2="116.84" width="0.1524" layer="91"/>
 <junction x="43.18" y="116.84"/>
 <wire x1="43.18" y1="116.84" x2="43.18" y2="127" width="0.1524" layer="91"/>
 <label x="43.18" y="127" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="EPD_C9" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$4" class="0">
 <segment>
-<pinref part="D3" gate="G$1" pin="A"/>
 <wire x1="99.06" y1="177.8" x2="93.98" y2="177.8" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="177.8" x2="93.98" y2="170.18" width="0.1524" layer="91"/>
-<pinref part="C4" gate="G$1" pin="1"/>
-<pinref part="D4" gate="G$1" pin="K"/>
 <wire x1="93.98" y1="170.18" x2="93.98" y2="167.64" width="0.1524" layer="91"/>
 <wire x1="99.06" y1="170.18" x2="93.98" y2="170.18" width="0.1524" layer="91"/>
 <junction x="93.98" y="170.18"/>
+<pinref part="C4" gate="G$1" pin="1"/>
+<pinref part="D3" gate="G$1" pin="A"/>
+<pinref part="D4" gate="G$1" pin="K"/>
 </segment>
 </net>
 <net name="EPD_3V3" class="0">
 <segment>
-<pinref part="C7" gate="G$1" pin="1"/>
 <wire x1="63.5" y1="165.1" x2="63.5" y2="167.64" width="0.1524" layer="91"/>
 <wire x1="63.5" y1="167.64" x2="68.58" y2="167.64" width="0.1524" layer="91"/>
 <pinref part="L1" gate="A" pin="2"/>
 <wire x1="63.5" y1="167.64" x2="63.5" y2="170.18" width="0.1524" layer="91"/>
 <junction x="63.5" y="167.64"/>
 <label x="63.5" y="170.18" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="C7" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="EPD_C5" gate="G$1" pin="1"/>
 <wire x1="30.48" y1="101.6" x2="53.34" y2="101.6" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="15"/>
 <wire x1="53.34" y1="101.6" x2="55.88" y2="101.6" width="0.1524" layer="91"/>
@@ -4242,11 +4244,12 @@ Stemma QT</text>
 <wire x1="53.34" y1="104.14" x2="50.8" y2="104.14" width="0.1524" layer="91"/>
 <junction x="53.34" y="104.14"/>
 <label x="50.8" y="104.14" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="EPD_C5" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="Q2" gate="G$1" pin="S"/>
 <wire x1="121.92" y1="96.52" x2="121.92" y2="93.98" width="0.1524" layer="91"/>
 <label x="121.92" y="93.98" size="1.016" layer="95" rot="R270" xref="yes"/>
+<pinref part="Q2" gate="G$1" pin="S"/>
 </segment>
 <segment>
 <pinref part="TP17" gate="G$1" pin="TP"/>
@@ -4260,19 +4263,19 @@ Stemma QT</text>
 <wire x1="83.82" y1="167.64" x2="88.9" y2="167.64" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="167.64" x2="88.9" y2="172.72" width="0.1524" layer="91"/>
 <label x="88.9" y="172.72" size="1.016" layer="95" rot="R90" xref="yes"/>
-<pinref part="D5" gate="G$1" pin="A"/>
 <wire x1="99.06" y1="157.48" x2="93.98" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="157.48" x2="88.9" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="157.48" x2="88.9" y2="167.64" width="0.1524" layer="91"/>
 <junction x="88.9" y="167.64"/>
-<pinref part="C4" gate="G$1" pin="2"/>
 <wire x1="93.98" y1="160.02" x2="93.98" y2="157.48" width="0.1524" layer="91"/>
 <junction x="93.98" y="157.48"/>
+<pinref part="C4" gate="G$1" pin="2"/>
+<pinref part="D5" gate="G$1" pin="A"/>
 </segment>
 <segment>
-<pinref part="Q3" gate="G$1" pin="D"/>
 <wire x1="152.4" y1="182.88" x2="152.4" y2="185.42" width="0.1524" layer="91"/>
 <label x="152.4" y="185.42" size="1.016" layer="95" xref="yes"/>
+<pinref part="Q3" gate="G$1" pin="D"/>
 </segment>
 </net>
 <net name="N$5" class="0">
@@ -4285,22 +4288,22 @@ Stemma QT</text>
 </net>
 <net name="N$6" class="0">
 <segment>
-<pinref part="R1_BAT" gate="G$1" pin="2"/>
 <wire x1="208.28" y1="157.48" x2="208.28" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="208.28" y1="152.4" x2="198.12" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="198.12" y1="152.4" x2="198.12" y2="157.48" width="0.1524" layer="91"/>
 <pinref part="CHG_LED" gate="G$1" pin="C"/>
+<pinref part="R1_BAT" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="RESE" class="0">
 <segment>
-<pinref part="R3" gate="G$1" pin="1"/>
 <wire x1="152.4" y1="162.56" x2="152.4" y2="165.1" width="0.1524" layer="91"/>
-<pinref part="Q3" gate="G$1" pin="S"/>
 <wire x1="152.4" y1="165.1" x2="152.4" y2="167.64" width="0.1524" layer="91"/>
 <junction x="152.4" y="165.1"/>
 <wire x1="152.4" y1="165.1" x2="154.94" y2="165.1" width="0.1524" layer="91"/>
 <label x="154.94" y="165.1" size="1.016" layer="95" xref="yes"/>
+<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="Q3" gate="G$1" pin="S"/>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="3"/>
@@ -4310,13 +4313,13 @@ Stemma QT</text>
 </net>
 <net name="GDR" class="0">
 <segment>
-<pinref part="R4" gate="G$1" pin="1"/>
 <wire x1="139.7" y1="170.18" x2="139.7" y2="172.72" width="0.1524" layer="91"/>
-<pinref part="Q3" gate="G$1" pin="G"/>
 <wire x1="139.7" y1="172.72" x2="139.7" y2="180.34" width="0.1524" layer="91"/>
 <wire x1="144.78" y1="172.72" x2="139.7" y2="172.72" width="0.1524" layer="91"/>
 <junction x="139.7" y="172.72"/>
 <label x="139.7" y="180.34" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="R4" gate="G$1" pin="1"/>
+<pinref part="Q3" gate="G$1" pin="G"/>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="2"/>
@@ -4334,13 +4337,13 @@ Stemma QT</text>
 </net>
 <net name="GPIO8" class="0">
 <segment>
-<pinref part="R1" gate="G$1" pin="2"/>
 <wire x1="287.02" y1="165.1" x2="292.1" y2="165.1" width="0.1524" layer="91"/>
 <pinref part="U2" gate="G$1" pin="IO8"/>
 <wire x1="292.1" y1="165.1" x2="312.42" y2="165.1" width="0.1524" layer="91"/>
 <junction x="292.1" y="165.1"/>
 <wire x1="292.1" y1="165.1" x2="292.1" y2="162.56" width="0.1524" layer="91"/>
 <label x="292.1" y="162.56" size="1.016" layer="95" rot="R270" xref="yes"/>
+<pinref part="R1" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="IO/BOOT" class="0">
@@ -4350,19 +4353,19 @@ Stemma QT</text>
 <label x="309.88" y="162.56" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R_BOOT" gate="G$1" pin="2"/>
 <wire x1="292.1" y1="106.68" x2="292.1" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="BOOT_BUTTON" gate="G$1" pin="4"/>
-<pinref part="BOOT_BUTTON" gate="G$1" pin="3"/>
 <wire x1="292.1" y1="99.06" x2="292.1" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="289.56" y1="96.52" x2="292.1" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="292.1" y1="96.52" x2="297.18" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="297.18" y1="96.52" x2="297.18" y2="93.98" width="0.1524" layer="91"/>
-<pinref part="C6" gate="G$1" pin="1"/>
 <wire x1="292.1" y1="99.06" x2="297.18" y2="99.06" width="0.1524" layer="91"/>
 <label x="297.18" y="99.06" size="1.016" layer="95" rot="R90" xref="yes"/>
 <junction x="292.1" y="99.06"/>
 <junction x="292.1" y="96.52"/>
+<pinref part="R_BOOT" gate="G$1" pin="2"/>
+<pinref part="C6" gate="G$1" pin="1"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="3"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="4"/>
 </segment>
 </net>
 <net name="EPD_DC" class="0">
@@ -4411,9 +4414,9 @@ Stemma QT</text>
 <label x="55.88" y="27.94" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R2-PINH1" gate="G$1" pin="1"/>
 <wire x1="119.38" y1="20.32" x2="119.38" y2="17.78" width="0.1524" layer="91"/>
 <label x="119.38" y="17.78" size="1.016" layer="95" rot="R270" xref="yes"/>
+<pinref part="R2-PINH1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="INT_RTC" class="0">
@@ -4428,9 +4431,9 @@ Stemma QT</text>
 <label x="55.88" y="25.4" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R1_PINH1" gate="G$1" pin="1"/>
 <wire x1="129.54" y1="20.32" x2="129.54" y2="17.78" width="0.1524" layer="91"/>
 <label x="129.54" y="17.78" size="1.016" layer="95" rot="R270" xref="yes"/>
+<pinref part="R1_PINH1" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="TP15" gate="G$1" pin="TP"/>
@@ -4448,18 +4451,18 @@ Stemma QT</text>
 <pinref part="IC1" gate="G$1" pin="VOUT"/>
 <wire x1="261.62" y1="99.06" x2="271.78" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="271.78" y1="99.06" x2="271.78" y2="106.68" width="0.1524" layer="91"/>
-<pinref part="R_RESET" gate="G$1" pin="2"/>
-<pinref part="RESET_BUTTON" gate="G$1" pin="4"/>
 <wire x1="271.78" y1="96.52" x2="271.78" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="RESET_BUTTON" gate="G$1" pin="3"/>
 <wire x1="269.24" y1="96.52" x2="271.78" y2="96.52" width="0.1524" layer="91"/>
-<pinref part="C5" gate="G$1" pin="1"/>
 <wire x1="276.86" y1="93.98" x2="276.86" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="276.86" y1="96.52" x2="271.78" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="271.78" y1="99.06" x2="276.86" y2="99.06" width="0.1524" layer="91"/>
 <label x="276.86" y="99.06" size="1.016" layer="95" rot="R90" xref="yes"/>
 <junction x="271.78" y="99.06"/>
 <junction x="271.78" y="96.52"/>
+<pinref part="R_RESET" gate="G$1" pin="2"/>
+<pinref part="C5" gate="G$1" pin="1"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="3"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="4"/>
 </segment>
 </net>
 <net name="EPD_CS" class="0">
@@ -4479,13 +4482,13 @@ Stemma QT</text>
 <label x="172.72" y="27.94" size="1.016" layer="95" rot="R90" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R9" gate="G$1" pin="1"/>
 <wire x1="266.7" y1="33.02" x2="266.7" y2="25.4" width="0.1524" layer="91"/>
-<pinref part="D6" gate="G$1" pin="1"/>
 <wire x1="266.7" y1="25.4" x2="266.7" y2="20.32" width="0.1524" layer="91"/>
 <junction x="266.7" y="25.4"/>
 <wire x1="266.7" y1="25.4" x2="269.24" y2="25.4" width="0.1524" layer="91"/>
 <label x="269.24" y="25.4" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="R9" gate="G$1" pin="1"/>
+<pinref part="D6" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="FLASH_CS" class="0">
@@ -4500,13 +4503,13 @@ Stemma QT</text>
 <label x="312.42" y="43.18" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R5" gate="G$1" pin="1"/>
 <wire x1="256.54" y1="33.02" x2="256.54" y2="25.4" width="0.1524" layer="91"/>
-<pinref part="D9" gate="G$1" pin="1"/>
 <wire x1="256.54" y1="25.4" x2="256.54" y2="20.32" width="0.1524" layer="91"/>
 <junction x="256.54" y="25.4"/>
 <wire x1="256.54" y1="25.4" x2="259.08" y2="25.4" width="0.1524" layer="91"/>
 <label x="259.08" y="25.4" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="D9" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="IO/CHANGE" class="0">
@@ -4516,19 +4519,19 @@ Stemma QT</text>
 <label x="355.6" y="180.34" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R_CHANGE" gate="G$1" pin="2"/>
 <wire x1="312.42" y1="106.68" x2="312.42" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="CHANGE_BUTTON" gate="G$1" pin="4"/>
-<pinref part="CHANGE_BUTTON" gate="G$1" pin="3"/>
 <wire x1="312.42" y1="99.06" x2="312.42" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="309.88" y1="96.52" x2="312.42" y2="96.52" width="0.1524" layer="91"/>
 <junction x="312.42" y="96.52"/>
 <wire x1="312.42" y1="96.52" x2="317.5" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="317.5" y1="96.52" x2="317.5" y2="93.98" width="0.1524" layer="91"/>
-<pinref part="C10" gate="G$1" pin="1"/>
 <junction x="312.42" y="99.06"/>
 <wire x1="312.42" y1="99.06" x2="317.5" y2="99.06" width="0.1524" layer="91"/>
 <label x="317.5" y="99.06" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="R_CHANGE" gate="G$1" pin="2"/>
+<pinref part="C10" gate="G$1" pin="1"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="3"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="4"/>
 </segment>
 </net>
 <net name="TX" class="0">
@@ -4590,26 +4593,26 @@ Stemma QT</text>
 <label x="190.5" y="124.46" size="1.016" layer="95" rot="R90" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R2-PINH" gate="G$1" pin="2"/>
 <wire x1="200.66" y1="116.84" x2="200.66" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="200.66" y1="121.92" x2="205.74" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="205.74" y1="121.92" x2="210.82" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="121.92" x2="210.82" y2="116.84" width="0.1524" layer="91"/>
-<pinref part="R1_PINH" gate="G$1" pin="2"/>
 <junction x="205.74" y="121.92"/>
 <wire x1="205.74" y1="121.92" x2="205.74" y2="124.46" width="0.1524" layer="91"/>
 <label x="205.74" y="124.46" size="1.016" layer="95" rot="R90" xref="yes"/>
+<pinref part="R2-PINH" gate="G$1" pin="2"/>
+<pinref part="R1_PINH" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="C2" gate="G$1" pin="1"/>
 <wire x1="195.58" y1="78.74" x2="195.58" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="195.58" y1="81.28" x2="203.2" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="203.2" y1="81.28" x2="210.82" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="81.28" x2="210.82" y2="78.74" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="1"/>
 <wire x1="203.2" y1="81.28" x2="203.2" y2="83.82" width="0.1524" layer="91"/>
 <label x="203.2" y="83.82" size="1.016" layer="95" rot="R90" xref="yes"/>
 <junction x="203.2" y="81.28"/>
+<pinref part="C1" gate="G$1" pin="1"/>
+<pinref part="C2" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="EPD_3V3_C" class="0">
@@ -4619,13 +4622,13 @@ Stemma QT</text>
 <label x="355.6" y="167.64" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="Q2" gate="G$1" pin="G"/>
 <wire x1="114.3" y1="99.06" x2="111.76" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="R_CL1" gate="G$1" pin="2"/>
 <wire x1="111.76" y1="99.06" x2="109.22" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="101.6" x2="111.76" y2="99.06" width="0.1524" layer="91"/>
 <junction x="111.76" y="99.06"/>
 <label x="109.22" y="99.06" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="R_CL1" gate="G$1" pin="2"/>
+<pinref part="Q2" gate="G$1" pin="G"/>
 </segment>
 <segment>
 <pinref part="TP13" gate="G$1" pin="TP"/>
@@ -4645,9 +4648,9 @@ Stemma QT</text>
 <label x="149.86" y="109.22" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R1_PINH" gate="G$1" pin="1"/>
 <wire x1="210.82" y1="106.68" x2="210.82" y2="101.6" width="0.1524" layer="91"/>
 <label x="210.82" y="101.6" size="1.016" layer="95" rot="R270" xref="yes"/>
+<pinref part="R1_PINH" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="U3" gate="A" pin="SDA"/>
@@ -4677,9 +4680,9 @@ Stemma QT</text>
 <label x="149.86" y="111.76" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R2-PINH" gate="G$1" pin="1"/>
 <wire x1="200.66" y1="106.68" x2="200.66" y2="101.6" width="0.1524" layer="91"/>
 <label x="200.66" y="101.6" size="1.016" layer="95" rot="R270" xref="yes"/>
+<pinref part="R2-PINH" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="U3" gate="A" pin="SCL"/>
@@ -4716,51 +4719,51 @@ Stemma QT</text>
 </net>
 <net name="N$8" class="0">
 <segment>
-<pinref part="EPD_C12" gate="G$1" pin="1"/>
 <wire x1="30.48" y1="124.46" x2="55.88" y2="124.46" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="24"/>
+<pinref part="EPD_C12" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$10" class="0">
 <segment>
-<pinref part="EPD_C10" gate="G$1" pin="1"/>
 <wire x1="53.34" y1="119.38" x2="55.88" y2="119.38" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="22"/>
+<pinref part="EPD_C10" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$12" class="0">
 <segment>
-<pinref part="EPD_C8" gate="G$1" pin="1"/>
 <wire x1="48.26" y1="114.3" x2="55.88" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="20"/>
+<pinref part="EPD_C8" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$13" class="0">
 <segment>
-<pinref part="EPD_C7" gate="G$1" pin="1"/>
 <wire x1="35.56" y1="111.76" x2="55.88" y2="111.76" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="19"/>
+<pinref part="EPD_C7" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$14" class="0">
 <segment>
-<pinref part="EPD_C6" gate="G$1" pin="1"/>
 <wire x1="48.26" y1="109.22" x2="55.88" y2="109.22" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="18"/>
+<pinref part="EPD_C6" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$16" class="0">
 <segment>
-<pinref part="EPD_C2" gate="G$1" pin="1"/>
 <wire x1="38.1" y1="76.2" x2="55.88" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="5"/>
+<pinref part="EPD_C2" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$17" class="0">
 <segment>
-<pinref part="EPD_C1" gate="G$1" pin="1"/>
 <wire x1="30.48" y1="73.66" x2="55.88" y2="73.66" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="4"/>
+<pinref part="EPD_C1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="VRTC" class="0">
@@ -4770,11 +4773,9 @@ Stemma QT</text>
 <label x="55.88" y="33.02" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R_CAPACITOR" gate="G$1" pin="1"/>
 <wire x1="96.52" y1="38.1" x2="101.6" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="101.6" y1="38.1" x2="101.6" y2="27.94" width="0.1524" layer="91"/>
 <pinref part="C10_SUPERCAP" gate="G$1" pin="2"/>
-<pinref part="C8" gate="G$1" pin="1"/>
 <wire x1="101.6" y1="27.94" x2="101.6" y2="25.4" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="25.4" x2="93.98" y2="27.94" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="27.94" x2="101.6" y2="27.94" width="0.1524" layer="91"/>
@@ -4782,21 +4783,23 @@ Stemma QT</text>
 <label x="91.44" y="27.94" size="1.016" layer="95" rot="R180" xref="yes"/>
 <junction x="101.6" y="27.94"/>
 <junction x="93.98" y="27.94"/>
+<pinref part="R_CAPACITOR" gate="G$1" pin="1"/>
+<pinref part="C8" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$9" class="0">
 <segment>
-<pinref part="D7" gate="G$0" pin="CATHODE"/>
 <wire x1="83.82" y1="38.1" x2="86.36" y2="38.1" width="0.1524" layer="91"/>
 <pinref part="R_CAPACITOR" gate="G$1" pin="2"/>
+<pinref part="D7" gate="G$0" pin="CATHODE"/>
 </segment>
 </net>
 <net name="N$11" class="0">
 <segment>
-<pinref part="C_DELAY" gate="G$1" pin="1"/>
 <wire x1="228.6" y1="91.44" x2="228.6" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="228.6" y1="101.6" x2="236.22" y2="101.6" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="G$1" pin="CT"/>
+<pinref part="C_DELAY" gate="G$1" pin="1"/>
 </segment>
 </net>
 </nets>
