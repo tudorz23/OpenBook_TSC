@@ -2678,6 +2678,9 @@ Stemma QT</text>
 <text x="218.44" y="55.88" size="3.81" layer="95">SPI ESD Protection Lines</text>
 <text x="297.18" y="55.88" size="3.81" layer="95">External NOR Flash 64MB</text>
 <text x="344.17" y="17.78" size="2.286" layer="94">Tudor Zaharia</text>
+<text x="129.54" y="96.52" size="1.778" layer="95" rot="R90">DMG2305UX-7</text>
+<text x="162.56" y="213.36" size="1.778" layer="95">SD0805S020S1R0</text>
+<text x="66.04" y="33.02" size="1.778" layer="95">SD0805S020S1R0</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="-2.54" smashed="yes">
